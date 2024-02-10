@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:gravity="center_vertical"
+    android:statusBarColor="@color/your_status_bar_color"
+    android:padding="16dp"
+    android:rotation="0"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/gifImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ajaykaimg"
+        android:layout_centerInParent="true"
+        android:rotation="0"
+    tools:ignore="ContentDescription"/>
+
+</RelativeLayout>
