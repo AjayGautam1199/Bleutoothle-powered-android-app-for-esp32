@@ -2,13 +2,7 @@
 The BluetoothLE Data Transmission App is designed to facilitate the seamless transfer of data between a Bluetooth Low Energy (BLE) device and an Android application. The application leverages the BLE protocol to establish a connection with the device, retrieve sensor data, and display it on the Android interface.
 
                                                                                                     
- _|_|_|    _|                        _|                            _|      _|        _|            
- _|    _|  _|  _|    _|    _|_|    _|_|_|_|    _|_|      _|_|    _|_|_|_|  _|_|_|    _|    _|_|    
- _|_|_|    _|  _|    _|  _|_|_|_|    _|      _|    _|  _|    _|    _|      _|    _|  _|  _|_|_|_|  
- _|    _|  _|  _|    _|  _|          _|      _|    _|  _|    _|    _|      _|    _|  _|  _|        
- _|_|_|    _|    _|_|_|    _|_|_|      _|_|    _|_|      _|_|        _|_|  _|    _|  _|    _|_|_|  
-                                                                                                   
-                                                                                                    ____  _            _              _   _     _      
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
                                                      
 Key Features:
@@ -32,7 +26,9 @@ How You Can Contribute:
 Note:
 This project is an opportunity for developers to contribute to an open-source initiative, learn more about BluetoothLE on Android, and collaborate with fellow developers to enhance the functionality of the application.
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+                                                     
                                                                                                    
  _|_|_|    _|                        _|                            _|      _|        _|            
  _|    _|  _|  _|    _|    _|_|    _|_|_|_|    _|_|      _|_|    _|_|_|_|  _|_|_|    _|    _|_|    
@@ -41,6 +37,8 @@ This project is an opportunity for developers to contribute to an open-source in
  _|_|_|    _|    _|_|_|    _|_|_|      _|_|    _|_|      _|_|        _|_|  _|    _|  _|    _|_|_|  
                                                                                                    
                                                                                                    
-                                                     
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+                                                                                                          
                                                      
         \/                 \/                             \/          \/ 
