@@ -1,13 +1,14 @@
 # Bleutoothle-powerd-android-app-for-esp32
 The BluetoothLE Data Transmission App is designed to facilitate the seamless transfer of data between a Bluetooth Low Energy (BLE) device and an Android application. The application leverages the BLE protocol to establish a connection with the device, retrieve sensor data, and display it on the Android interface.
 
-__________.__                 __                 __  .__    .__          
-\______   \  |  __ __   _____/  |_  ____   _____/  |_|  |__ |  |   ____  
- |    |  _/  | |  |  \_/ __ \   __\/  _ \ /  _ \   __\  |  \|  | _/ __ \ 
- |    |   \  |_|  |  /\  ___/|  | (  <_> |  <_> )  | |   Y  \  |_\  ___/ 
- |______  /____/____/  \___  >__|  \____/ \____/|__| |___|  /____/\___  >
-        \/                 \/                             \/          \/ 
-
+  ____  _            _              _   _     _      
+ |  _ \| |          | |            | | | |   | |     
+ | |_) | |_   _  ___| |_ ___   ___ | |_| |__ | | ___ 
+ |  _ <| | | | |/ _ \ __/ _ \ / _ \| __| '_ \| |/ _ \
+ | |_) | | |_| |  __/ || (_) | (_) | |_| | | | |  __/
+ |____/|_|\__,_|\___|\__\___/ \___/ \__|_| |_|_|\___|
+                                                     
+                                                     
 Key Features:
 1. Bluetooth Connection: The app establishes a Bluetooth connection with a specified BLE device using Android's Bluetooth Low Energy APIs.
 
@@ -30,10 +31,12 @@ Note:
 This project is an opportunity for developers to contribute to an open-source initiative, learn more about BluetoothLE on Android, and collaborate with fellow developers to enhance the functionality of the application.
 
 
----
-__________.__                 __                 __  .__    .__          
-\______   \  |  __ __   _____/  |_  ____   _____/  |_|  |__ |  |   ____  
- |    |  _/  | |  |  \_/ __ \   __\/  _ \ /  _ \   __\  |  \|  | _/ __ \ 
- |    |   \  |_|  |  /\  ___/|  | (  <_> |  <_> )  | |   Y  \  |_\  ___/ 
- |______  /____/____/  \___  >__|  \____/ \____/|__| |___|  /____/\___  >
+  ____  _            _              _   _     _      
+ |  _ \| |          | |            | | | |   | |     
+ | |_) | |_   _  ___| |_ ___   ___ | |_| |__ | | ___ 
+ |  _ <| | | | |/ _ \ __/ _ \ / _ \| __| '_ \| |/ _ \
+ | |_) | | |_| |  __/ || (_) | (_) | |_| | | | |  __/
+ |____/|_|\__,_|\___|\__\___/ \___/ \__|_| |_|_|\___|
+                                                     
+                                                     
         \/                 \/                             \/          \/ 
