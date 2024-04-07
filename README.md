@@ -20,9 +20,10 @@ The project currently faces a challenge in establishing a stable Bluetooth conne
 ##### Note:
 This project is an opportunity for developers to contribute to an open-source initiative, learn more about BluetoothLE on Android, and collaborate with fellow developers to enhance the functionality of the application.
 
+                                                                                                                                                                                                
+>
                                                                                                                                                                                                  
-                                                                                                                                                                                                 
-                                                                                                                                                                                                 
+"""                                                                                                                                                                                                 
 BBBBBBBBBBBBBBBBB   lllllll                                                tttt                                                     tttt         hhhhhhh             lllllll                     
 B::::::::::::::::B  l:::::l                                             ttt:::t                                                  ttt:::t         h:::::h             l:::::l                     
 B::::::BBBBBB:::::B l:::::l                                             t:::::t                                                  t:::::t         h:::::h             l:::::l                     
@@ -40,6 +41,7 @@ B:::::::::::::::::B l::::::l u:::::::::::::::u e::::::::eeeeeeee        tt::::::
 B::::::::::::::::B  l::::::l  uu::::::::uu:::u  ee:::::::::::::e          tt:::::::::::tt oo:::::::::::oo  oo:::::::::::oo         tt:::::::::::tth:::::h     h:::::hl::::::l  ee:::::::::::::e  
 BBBBBBBBBBBBBBBBB   llllllll    uuuuuuuu  uuuu    eeeeeeeeeeeeee            ttttttttttt     ooooooooooo      ooooooooooo             ttttttttttt  hhhhhhh     hhhhhhhllllllll    eeeeeeeeeeeeee  
                                                                                                                                                                                                  
-                                                                                                                                                                                                 
+"""
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bluetooth_logo_%282016%29.svg/220px-Bluetooth_logo_%282016%29.svg.png">
                                                                                                                                                                                                  
                                                                                                                                                                                                                                                     
