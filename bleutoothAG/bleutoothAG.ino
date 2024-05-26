@@ -1,5 +1,5 @@
 #include <BLEDevice.h>
-
+//its work
 BLEServer* pServer = NULL;
 BLECharacteristic* pCharacteristic = NULL;
 int sensorValue = 0;  // Replace this with your actual sensor reading
